@@ -1,0 +1,872 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat", sans-serif;
+}
+.header-menu-wrapper{
+    padding: 0px 15px;
+}
+.navbar-brand img{
+    width: 100%;
+}
+.lightbox img{
+    width: 100%;
+}
+.tz-gallery .lightbox{
+    margin-bottom: 25px;
+    display: block;
+}
+.timming-style .col-md-7.col-xs-8{
+    text-align: right;
+}
+.static-header .website-header{
+    position: static;
+    background-color: #000000;
+}
+.form-select:focus{
+    box-shadow: none;
+}
+.our-services-section{
+    padding-top: 100px;
+}
+.inner-page-banner-image img{
+    width: 100%;
+}
+.used-cars-section.inventory-form-section .used-cars .form-select{
+    width: 156px;
+}
+.navbar-expand-md .navbar-nav .nav-link{
+    color: #ffffff;
+}
+.Inventory-section-wrapper .vehicles-descripton{
+    margin-bottom: 30px;
+    min-height: 380px;
+}
+.vehicles-descripton{
+    min-height: 380px;
+}
+.vehicles-descripton{
+    display: ;
+}
+.Inventory-section-wrapper{
+    padding: 50px 0px 100px;
+}
+.navbar-nav.me-auto{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.navbar-expand-md .navbar-nav .nav-link{
+    font-size: 17px;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 15px 20px;
+    text-transform: uppercase;
+}
+.space-from-left-right{
+    padding: 0px 60px;
+}
+.search-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-menu-wrapper{
+    background-color: transparent;
+}
+.search-section form .btn{
+    color: #ffffff;
+}
+.search-section input[type="search"]{
+    border-radius: 50px;
+    background-color: transparent;
+    color: #ffffff;
+    padding: 5px 10px 5px 10px;
+}
+.search-section input[type="search"]::-ms-input-placeholder{
+    color: #ffffff;
+}
+.search-section input[type="search"]::placeholder{
+  color: #ffffff;
+}
+.website-header{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+.navbar-expand-md .navbar-nav .nav-link:hover{
+    color: #ff3334;
+}
+.phone-link a{
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+    margin-right: 40px;
+}
+.address-link a{
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+}
+.banner-section-wrapper{
+    background-image: url("../images/banner.jpg");
+    background-position: top center;
+    padding-top: 250px;
+    padding-bottom: 225px;
+    background-size: cover;
+}
+.banner-content h3{
+    font-family: "Exo 2", sans-serif;
+    font-size: 47px;
+    background: linear-gradient(#f7f7f7, #505051);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+}
+.banner-content h1{
+    font-family: "Exo 2", sans-serif;
+    
+    background: linear-gradient(#f7f7f7, #505051);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+}
+.banner-content p{
+    color: #ffffff;
+    font-size: 22px;
+    margin: 30px 0px;
+}
+.btn-style:hover{
+    background-color: #964B00;
+    color: #ffffff;
+}
+.btn-style{
+    background-color: #964B00;
+    color: #ffffff;
+    padding: 20px 30px;
+    display: inline-block;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 0px;
+}
+.btn-style.view-inventory{
+    margin-right: 30px;
+}
+.used-cars{
+    box-shadow: 0px 0px 10px 0px #dddddd;
+    border-radius: 27px;
+    padding: 30px 30px;
+    text-align: center;
+    width: auto;
+    margin: auto;
+    background-color: #ffffff;
+}
+.used-cars h3,.search-bodystyle h3{
+    font-family: "Exo 2", sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-bottom: 25px;
+}
+.used-cars .form-select{
+    border: 1px solid #DEDEDE;
+    border-radius: 50px;
+    width: 276px;
+    height: 50px;
+}
+.used-cars .btn.btn-style{
+    height: 50px;
+    padding: 15px;
+    width: 150px;
+}
+.used-cars-section{
+    margin-top: -80px;
+    position: relative;
+    z-index: 1;
+}
+.search-bodystyle{
+    text-align: center;
+    margin-top: 60px;
+}
+.car-box h6{
+    font-size: 18px;
+    font-family: "Exo 2", sans-serif;
+    line-height: 20px;
+}
+.bodystyle-images{
+    /*display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 40px auto;*/
+}
+.car-box{
+    padding: 0px 20px;
+}
+.section-title h2{
+    font-family: "Anton", sans-serif;
+    font-size: 120px;
+    color: #f0f0f0;
+    text-transform: uppercase;
+    line-height: 120px;
+    margin: 0px;
+}
+.section-title h3{
+    font-family: "Anton", sans-serif;
+    font-size: 75px;
+    text-transform: uppercase;
+}
+.section-title p{
+    font-family: "Urbanist", sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+.section-title hr{
+    color: #964B00;
+    height: 2px;
+    width: 132px;
+    background-color: #964B00;
+    opacity: 1;
+}
+.section-title .section-title-inside{
+    margin-left: 0px;
+    margin-top: -80px;
+}
+.service-box{
+    background-color: #1C1F28;
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+    margin-bottom: 30px;
+}
+.service-box i{
+    display: inline-block;
+    margin-right: 10px;
+    width: 50px;
+    flex-shrink: 0;
+}
+.service-box-content h5{
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: "Exo 2", sans-serif;
+}
+.service-box-content p{
+    font-size: 16px;
+    color: #ffffff;
+    font-family: "Urbanist", sans-serif;
+    margin: 0px;
+}
+.brown-strip{
+    background-color: #964B00;
+}
+.brown-strip p{
+    color: #ffffff;
+    margin-bottom: 0px;
+    font-family: "Exo 2", sans-serif;
+    font-size: 22px;
+    padding: 20px 0px;
+}
+.car-image{
+    padding-bottom: 20px;
+}
+.black-carimage{
+    margin-top: -100px;
+}
+.featured-vehicles-section .section-title .section-title-inside{
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    position: relative;
+}
+.featured-vehicles-section .section-title h2,.featured-vehicles-section .section-title h3{
+    text-align: center;
+}
+.featured-vehicles-section .section-title h2{
+    font-size: 200px;
+    line-height: 200px;
+}
+.featured-vehicles-section .section-title h3{
+    margin-top: -130px;
+    margin-bottom: 45px;
+}
+.featured-vehicles-section .section-title hr{
+    margin: auto;
+}
+.featured-vehicles-section .section-title p{
+    text-align: center;
+    margin: 30px 15px 40px;
+}
+.featured-vehicles-section{
+    padding: 80px 0px;
+    background-image: url("../images/fvbg.jpg");
+    background-position: top center;
+}
+.vehicles-descripton{
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px #dddddd;
+    overflow: hidden;
+    background-color: #ffffff;
+    display: block;
+    text-decoration: none;
+    color: #000000;
+}
+.vehicles-descripton-text{
+    padding: 25px;
+}
+.vehicles-descripton-text h4{
+    font-family: "Exo 2", sans-serif;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.vehicles-descripton-text p{
+    font-size: 15px;
+}
+.car-feature .icon-link{
+    color: #121212;
+    text-decoration: none;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.car-feature .icon-link i{
+    position: relative;
+    top: -5px;
+}
+.car-feature{
+    padding: 10px 0px 5px;
+    border-top: 1px solid #121212;
+    border-bottom: 1px solid #121212;
+}
+.owl-carousel .owl-stage-outer{
+    padding-bottom: 40px;
+}
+.about-us-section{
+    background-image: url(../images/about-bg.jpg);
+    padding: 130px 0px;
+    background-size: cover;
+}
+.about-us-section .section-title h2{
+    font-size: 180px;
+    opacity: 0.1;
+}
+.about-us-section .section-title h3{
+    color: #B70A0E;
+    font-size: 50px;
+}
+.about-us-section .section-title h5{
+    color: #ffffff;
+    font-size: 35px;
+    line-height: 40px;
+    font-family: "Anton", sans-serif;
+    text-transform: uppercase;
+}
+.about-us-section .section-title p{
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.footer-section-wrapper{
+    background-color: #141319;
+    padding-top: 70px;
+}
+.footer-links h6{
+    font-size: 18px;
+    color: #ffffff;
+    font-family: "Anton", sans-serif;
+}
+.footer-links ul{
+    margin: 0px;
+    padding: 0px;
+}
+.footer-links li{
+    list-style: none;
+    color: #bbbbbc;
+    display: flex;
+    justify-content: space-between;
+    line-height: 32px;
+    font-size: 15px;
+}
+.footer-links li a{
+    color: #bbbbbc;
+    text-decoration: none;
+}
+.footer-links li span{
+    display: block;
+}
+.send-message-btn .btn-style{
+    border-radius: 50px 50px 0px;
+    padding: 16px 30px;
+}
+.footer-bottom{
+    border-top :1px solid #484848;
+    border-bottom :1px solid #484848;
+    padding: 30px 0px;
+    margin-top: 50px;
+}
+.send-message-btn{
+    text-align: right;
+}
+.footer-bottom h6{
+    color: #bbbbbc;
+    font-size: 16px;
+}
+.footer-bottom p{
+    color: #bbbbbc;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+.footer-bottom p a{
+    color: #bbbbbc;
+    text-decoration: none;
+}
+.copyright-line p{
+    margin-bottom: 0px;
+    color: #bbbbbc;
+    font-size: 15px;
+}
+.copyright-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.copyright-line a{
+    color: #bbbbbc;
+    text-decoration: none;
+}
+.website-header.position-static{
+    background-color: #000000;
+}
+.section-title-inside.contact-us-text{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.section-title-inside.contact-us-text p{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.form-style{
+    margin-bottom: 40px;
+    padding-right: 40px;
+}
+.form-style label{
+    color: #ffffff;
+}
+.form-style .form-control{
+    border-radius: 0px;
+    height: 50px;
+}
+.contact-info-bar h4{
+    color: #B70A0E;
+    font-size: 35px;
+    font-family: "Anton", sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.contact-info-bar p{
+    color: #ffffff;
+}
+.contact-info-bar address{
+    color: #ffffff;
+}
+.timming-style{
+    color: #ffffff;
+    line-height: 32px;
+    margin-bottom: 30px;
+}
+.contact-info-bar{
+    background-color: #000000;
+    padding: 40px;
+    border: 1px solid #ffffff;
+}
+.contact-info-bar a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.add{
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.title-h3 h3{
+    color: #B70A0E;
+    font-size: 50px;
+    font-family: "Anton", sans-serif;
+    text-transform: uppercase;
+}
+.form-style.form-style-black .row{
+    margin-bottom: 30px;
+}
+.form-style.form-style-black .p-top-20{
+    margin-bottom: 20px;
+}
+.form-style.form-style-black label{
+    color: #000000;
+    margin-bottom: 15px;
+}
+.form-style.form-style-black{
+    margin: 0px;
+    padding: 0px;
+}
+.radio-btn-self{
+    display: flex;
+}
+ul.radio-btn-self  li{
+    list-style: none;
+    margin-right: 10px;
+}
+ul.radio-btn-self  li input{
+    margin-right: 5px;
+}
+ul.radio-btn-self{
+    margin: 0px;
+    padding: 0px;
+}
+.form-style.form-style-black{
+    padding: 40px 20px;
+    background-color: #f2f2f2;
+}
+.vehicles-img img{
+    width: 100%;
+}
+.gallery-section-wrapper{
+    padding: 80px 0px;
+}
+.product-detail-section h3{
+    font-weight: 700;
+}
+.product-detail-section h4{
+    font-weight: 700;
+}
+.product-detail-section .service-box{
+    flex-direction: column;
+    height: 140px;
+}
+.product-detail-section .service-box-content h5{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.product-detail-section h4{
+    margin: 30px 0px;
+}
+.margin-top-40{
+    margin-top: 40px;
+}
+.vehicle-description h3{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+@media only screen and (min-width:1920px){
+
+    .header-menu-wrapper .container-fluid{
+        max-width: 1920px;
+    }
+}
+@media only screen and (min-width:1500px){
+
+    .navbar-expand-md .navbar-nav .nav-link{
+        padding: 15px 40px;
+    }
+}
+@media only screen and (max-width:1400px){
+
+    .about-us-section .section-title h2{
+        font-size: 155px;
+        opacity: 0.1;
+    }
+
+}
+@media only screen and (max-width:1300px){
+
+    .used-cars{
+        width: auto;
+    }
+    .bodystyle-images{
+        
+    }
+}
+@media only screen and (max-width:1199px){
+
+    .used-cars .form-select{
+        margin-bottom: 20px;
+    }
+    .service-box{
+        flex-direction: column;
+    }
+    .about-us-section.contactus-section{
+        padding: 100px 0px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link{
+        padding: 13px;
+        font-size: 16px;
+    }
+    .address-link a{
+        font-size: 18px;
+    }
+    .address-link a{
+        font-size: 15px;
+    }
+    .phone-link a{
+        font-size: 15px;
+    }
+    .about-us-section .section-title h2{
+        font-size: 130px;
+    }
+    .about-us-section{
+        padding: 100px 0px;
+    }
+}
+@media only screen and (max-width:1024px){
+
+    .navbar-nav.me-auto {
+        margin-left: auto !important;
+        margin-right: 0px !important;
+    }
+    .about-us-section.contactus-section{
+        padding: 80px 0px;
+    }
+    .search-section{
+        display: none;
+    }
+    .featured-vehicles-section .section-title h2{
+        font-size: 150px;
+        line-height: 150px;
+    }
+}
+@media only screen and (max-width:991px){
+
+    .about-us-section {
+        padding: 60px 0px;
+    }
+    .about-us-section .section-title h2 {
+        font-size: 95px;
+    }
+    .about-us-section .section-title h3{
+        font-size: 40px;
+    }
+    .black-carimage {
+        margin-top: 0px;
+    }
+    .about-us-section.contactus-section{
+        padding: 60px 0px;
+    }
+    .featured-vehicles-section .section-title h3{
+        margin-top: -50px;
+        margin-bottom: 20px;
+    }
+    .featured-vehicles-section .section-title h2{
+        font-size: 100px;
+        line-height: 100px;
+    }
+    .section-title .section-title-inside{
+        margin-left: 0px;
+        margin-top: -80px;
+        margin-bottom: 40px;
+    }
+    .section-title-inside.contact-us-text{
+        margin-top: 0px;
+    }
+    .footer-links{
+        margin-bottom: 30px;
+    }
+    .footer-bottom .col-lg-3.col-md-6{
+        margin-bottom: 30px;
+    }
+    .form-style{
+        padding-right: 0px;
+    }
+    .about-us-section.contactus-section{
+        padding-bottom: 80px;
+    }
+    .our-services-section{
+        padding-top: 60px;
+    }
+    .service-box{
+        flex-direction: row;
+        align-items: center;
+    }
+    .section-title h3{
+        font-size: 60px;
+    }
+}
+@media only screen and (max-width:767px){
+
+    .gallery-section-wrapper {
+        padding: 60px 0px;
+    }
+    .Inventory-section-wrapper .vehicles-descripton{
+        min-height: auto;
+    }
+    .car-image{
+        padding-bottom: 0px;
+    }
+    .car-box h6{
+        font-size: 16px;
+        word-wrap: break-word;
+    }
+    .used-cars h3, .search-bodystyle h3{
+        font-size: 30px;
+    }
+    .used-cars-section {
+        margin-top: 50px;
+    }
+    .used-cars-section.inventory-form-section .used-cars .form-select{
+        width: 100%;
+    }
+    .navbar-toggler{
+        border: 1px solid #ffffff;
+    }
+    button:focus:not(:focus-visible){
+        outline: 0;
+        box-shadow: none;
+    }
+    
+    .navbar-brand{
+        width: 130px;
+    }
+    .timming-style .col-md-7.col-xs-8 {
+        text-align: left;
+    }
+    .addimage{
+        margin-bottom: 30px;
+    }
+    .website-header{
+        position: static;
+        background-color: #000000;
+    }
+    .banner-section-wrapper{
+        padding-top: 100px;
+    }
+    
+    .featured-vehicles-section .section-title h2{
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .about-us-section .section-title h2{
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .space-from-left-right {
+        padding: 0px 15px;
+    }
+    .used-cars .form-select{
+        width: 100%;
+    }
+    .copyright-line{
+        flex-direction: column;
+    }
+    .section-title h2{
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .banner-buttons a{
+        margin-bottom: 20px;
+    }
+    .banner-section-wrapper{
+        padding-bottom: 150px;
+    }
+    .about-us-section {
+        padding: 80px 0px 40px;
+    }
+    .contact-info-bar{
+        padding: 40px 20px;
+    }
+    .form-style.form-style-black .col-md-6.col-sm-6{
+        margin-bottom: 20px;
+    }
+    br{
+        display: none;
+    }
+    .brown-strip p{
+        padding: 10px 0px 5px;
+    }
+    .used-cars .row.justify-content-center{
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width:600px){
+
+    .gallery-section-wrapper{
+        padding: 40px 0px;
+    }
+    .row.smallimages .col-lg-3.col-md-4.col-3{
+        padding: 5px !important;
+    }
+    .row.smallimages .col-lg-3.col-md-4.col-3 .lightbox{
+        margin-bottom: 5px;
+    }
+    .section-title h2 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+    .banner-section-wrapper {
+        padding-bottom: 60px;
+    }
+    .car-box h6{
+        font-size: 14px;
+    }
+    .section-title h3{
+        font-size: 50px;
+    }
+    .featured-vehicles-section{
+        padding: 60px 0px 30px;
+    }
+    .featured-vehicles-section .section-title h2{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .banner-section-wrapper{
+        padding-top: 60px;
+    }
+    .banner-content h3{
+        font-size: 34px;
+    }
+    .btn-style{
+        padding: 15px 30px;
+    }
+    .banner-content p{
+        font-size: 18px;
+    }
+    .used-cars h3, .search-bodystyle h3{
+        font-size: 28px;
+    }
+    .used-cars{
+        padding: 30px 20px;
+    }
+    .footer-bottom{
+        margin-top: 20px;
+    }
+    .send-message-btn{
+        text-align: left;
+    }
+    .copyright-line p{
+        margin: 10px 0px;
+    }
+    .vehicles-descripton-text h4{
+        font-size: 20px;
+    }
+    .vehicles-descripton-text{
+        padding: 20px 15px;
+    }
+    .car-feature .icon-link{
+        font-size: 14px;
+    }
+    .vehicles-descripton-text p{
+        font-size: 14px;
+    }
+    .Inventory-section-wrapper{
+        padding: 50px 0px 50px;
+    }
+    .title-h3 h3{
+        font-size: 40px;
+    }
+    .about-us-section .section-title h3{
+        font-size: 40px;
+    }
+}
